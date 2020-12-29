@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "conmodo"
+  "defaultProject": "conmodo",
+  "cli": {
+    "analytics": "9a2abec1-1834-4d51-afa2-184127ef7402"
+  }
 }
